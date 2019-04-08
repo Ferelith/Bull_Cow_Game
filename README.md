@@ -1,0 +1,2 @@
+# Bull_Cow_Game
+Bulls &amp; Cows Game is a word guessing game created in Visual Studio 2019 Console Application written in C++. The player has to guess a hidden isogram word, the 'Bulls' count represent a guessed word which has the same characters in the same place as the hidden isogram word, the 'Cows' count however, represent the same characters in the guessed word but in a different place than the hidden isogram word. Using these clues, the player has to guess the hidden isogram word. 
